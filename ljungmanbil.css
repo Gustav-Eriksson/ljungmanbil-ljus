@@ -191,7 +191,7 @@ background-image:url(bg3.png);
 
 
 
-@media screen and (max-width:639px){
+@media screen and (max-width:800px){
     
     #header{height:7em;position: fixed; top:0; width: 100%;border-bottom: none;z-index:1;
     background: rgba(217,217,217,1);
